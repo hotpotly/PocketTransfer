@@ -43,8 +43,20 @@ for folder in (root/'Resources').glob('*.lproj'):
     shutil.copytree(folder,res/folder.name,dirs_exist_ok=True)
 print(app)
 PY
+/usr/bin/strip -S "$OUTPUT/Pocket Transfer.app/Contents/MacOS/Osmotic"
 codesign --force --sign - --options runtime --entitlements "$ROOT/Resources/Osmotic.entitlements" --identifier dev.ly.pockettransfer "$OUTPUT/Pocket Transfer.app"
 codesign --verify --deep --strict "$OUTPUT/Pocket Transfer.app"
+
+python3 - "$ROOT" "$OUTPUT/Pocket Transfer.app" <<'PY_AUDIT'
+from pathlib import Path
+import sys
+root, app = map(Path, sys.argv[1:])
+for file in app.rglob('*'):
+    if file.is_file():
+        data = file.read_bytes()
+        if str(root).encode() in data:
+            raise SystemExit(f"Build path leaked into {file.relative_to(app)}")
+PY_AUDIT
 
 VERSION=$(/usr/libexec/PlistBuddy -c 'Print CFBundleShortVersionString' "$OUTPUT/Pocket Transfer.app/Contents/Info.plist")
 ARCH=$(uname -m)

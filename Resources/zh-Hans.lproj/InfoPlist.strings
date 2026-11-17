@@ -1,0 +1,7 @@
+"CFBundleDisplayName" = "Pocket Transfer";
+"NSBluetoothAlwaysUsageDescription" = "发现并连接你的Pocket相机，开启无线传输。";
+"NSLocalNetworkUsageDescription" = "通过相机Wi-Fi读取并导入素材。";
+"NSRemovableVolumesUsageDescription" = "通过USB-C读取相机素材，仅复制到Mac，不删除相机文件。";
+"NSDownloadsFolderUsageDescription" = "保存你选择导入的素材。";
+"NSLocationUsageDescription" = "macOS需要定位权限才能读取当前Wi-Fi名称，用于传输结束后恢复原网络。不记录位置。";
+"NSLocationWhenInUseUsageDescription" = "macOS需要定位权限才能读取当前Wi-Fi名称，用于传输结束后恢复原网络。不记录位置。";

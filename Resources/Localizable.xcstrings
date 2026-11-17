@@ -1,0 +1,3024 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ free of %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ libres de %@"
+          }
+        }
+      }
+    },
+    "%@ in %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ en %@"
+          }
+        }
+      }
+    },
+    "%@/s": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@/s"
+          }
+        }
+      }
+    },
+    "%lld arrived, %lld didn’t. Open Osmotic to try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld descargados, %lld no. Abrí Osmotic para reintentar."
+          }
+        }
+      }
+    },
+    "%lld cameras found": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld camera found"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld cameras found"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld cámara encontrada"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld cámaras encontradas"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld files": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld file"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld files"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld archivo"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld archivos"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld files couldn’t be downloaded. Try again to resume.": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld file couldn’t be downloaded. Try again to resume."
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld files couldn’t be downloaded. Try again to resume."
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld archivo no se pudo descargar. Reintentá para reanudar."
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld archivos no se pudieron descargar. Reintentá para reanudar."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld of 4": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld de 4"
+          }
+        }
+      }
+    },
+    "A pairing request shows up on its screen: tap the check mark. Only needed the first time.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En su pantalla aparece un pedido de emparejamiento: tocá la tilde. Solo la primera vez."
+          }
+        }
+      }
+    },
+    "Add to selection": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agregar a la selección"
+          }
+        }
+      }
+    },
+    "All": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo"
+          }
+        }
+      }
+    },
+    "All downloaded": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo descargado"
+          }
+        }
+      }
+    },
+    "All queued": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todo en cola"
+          }
+        }
+      }
+    },
+    "Already in your downloads folder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ya está en tu carpeta de descargas"
+          }
+        }
+      }
+    },
+    "Approve on the camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aprobá en la cámara"
+          }
+        }
+      }
+    },
+    "Approve the connection on the camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aprobá la conexión en la cámara"
+          }
+        }
+      }
+    },
+    "Approve the connection on the camera’s screen": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aprobá la conexión en la pantalla de la cámara"
+          }
+        }
+      }
+    },
+    "As a webcam, the picture goes over the cable in full quality and the camera charges. The Live tab works without the cable, over Wi-Fi, at preview quality.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Como webcam, la imagen va por el cable en calidad completa y la cámara se carga. La pestaña En vivo funciona sin cable, por Wi-Fi, en calidad de vista previa."
+          }
+        }
+      }
+    },
+    "Asking the camera for its Wi-Fi network…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pidiendo la red Wi-Fi a la cámara…"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volver"
+          }
+        }
+      }
+    },
+    "Batt": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bat"
+          }
+        }
+      }
+    },
+    "Blinking": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parpadeando"
+          }
+        }
+      }
+    },
+    "Bluetooth": {
+      "shouldTranslate": false
+    },
+    "Bluetooth is off. Turn it on to find your camera.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Bluetooth está apagado. Encendelo para encontrar tu cámara."
+          }
+        }
+      }
+    },
+    "Bluetooth off": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bluetooth apagado"
+          }
+        }
+      }
+    },
+    "Burst": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ráfaga"
+          }
+        }
+      }
+    },
+    "Buy me a coffee": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invitame un café"
+          }
+        }
+      }
+    },
+    "Camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara"
+          }
+        }
+      }
+    },
+    "Camera Wi-Fi": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi-Fi de la cámara"
+          }
+        }
+      }
+    },
+    "Camera Wi-Fi password": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contraseña Wi-Fi de la cámara"
+          }
+        }
+      }
+    },
+    "Camera link": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enlace con la cámara"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
+          }
+        }
+      }
+    },
+    "Can’t find the camera. Turn it on and bring it close to the Mac.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se encuentra la cámara. Encendela y acercala a la Mac."
+          }
+        }
+      }
+    },
+    "Card": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarjeta"
+          }
+        }
+      }
+    },
+    "Change…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambiar…"
+          }
+        }
+      }
+    },
+    "Check Now": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar ahora"
+          }
+        }
+      }
+    },
+    "Check for Updates…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar actualizaciones…"
+          }
+        }
+      }
+    },
+    "Check for updates automatically": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar actualizaciones automáticamente"
+          }
+        }
+      }
+    },
+    "Checking…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscando…"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir"
+          }
+        }
+      }
+    },
+    "Choose Card…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir tarjeta…"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerrar"
+          }
+        }
+      }
+    },
+    "Code": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Código"
+          }
+        }
+      }
+    },
+    "Connect": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectar"
+          }
+        }
+      }
+    },
+    "Connect to %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectar a %@"
+          }
+        }
+      }
+    },
+    "Connected before": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectadas antes"
+          }
+        }
+      }
+    },
+    "Connecting": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectando"
+          }
+        }
+      }
+    },
+    "Connection": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conexión"
+          }
+        }
+      }
+    },
+    "Continue": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuar"
+          }
+        }
+      }
+    },
+    "Copy All": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar todo"
+          }
+        }
+      }
+    },
+    "Couldn’t connect over Bluetooth. Is the camera on and nearby?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar por Bluetooth. ¿La cámara está encendida y cerca?"
+          }
+        }
+      }
+    },
+    "Couldn’t eject the card. Close anything still reading it and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo expulsar la tarjeta. Cerrá lo que la esté leyendo y probá de nuevo."
+          }
+        }
+      }
+    },
+    "Couldn’t get back to your Wi-Fi on its own. Pick your network in the menu bar.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo volver solo a tu Wi-Fi. Elegí tu red en la barra de menús."
+          }
+        }
+      }
+    },
+    "Couldn’t join the camera’s Wi-Fi network (%@). Bring the Mac closer to the camera and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo entrar a la red Wi-Fi de la cámara (%@). Acercá la Mac a la cámara y probá de nuevo."
+          }
+        }
+      }
+    },
+    "Couldn’t open the preview": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo abrir la vista previa"
+          }
+        }
+      }
+    },
+    "Couldn’t reach GitHub. Check your Internet connection.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo llegar a GitHub. Revisá tu conexión a Internet."
+          }
+        }
+      }
+    },
+    "Credits": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créditos"
+          }
+        }
+      }
+    },
+    "Deselect": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deseleccionar"
+          }
+        }
+      }
+    },
+    "Deselect all (esc)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deseleccionar todo (esc)"
+          }
+        }
+      }
+    },
+    "Details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detalles"
+          }
+        }
+      }
+    },
+    "Disconnect": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desconectar"
+          }
+        }
+      }
+    },
+    "Disconnect and Cancel the Download": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desconectar y cancelar la descarga"
+          }
+        }
+      }
+    },
+    "Disconnect automatically when downloads finish": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desconectar automáticamente al terminar de descargar"
+          }
+        }
+      }
+    },
+    "Disconnect from the camera to install.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desconectate de la cámara para instalar."
+          }
+        }
+      }
+    },
+    "Disconnect while files are downloading?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Desconectar mientras se descargan archivos?"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        }
+      }
+    },
+    "Done: %@ in %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo: %@ en %@"
+          }
+        }
+      }
+    },
+    "Download": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar"
+          }
+        }
+      }
+    },
+    "Download %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar %@"
+          }
+        }
+      }
+    },
+    "Download %lld New": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Download %lld new"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Download %lld new"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Descargar %lld nuevo"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Descargar %lld nuevos"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Download %lld selected": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Download %lld selected"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Download %lld selected"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Descargar %lld elegido"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Descargar %lld elegidos"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Download Day": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar día"
+          }
+        }
+      }
+    },
+    "Download New": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar nuevos"
+          }
+        }
+      }
+    },
+    "Download Selection": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar selección"
+          }
+        }
+      }
+    },
+    "Download canceled": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descarga cancelada"
+          }
+        }
+      }
+    },
+    "Download canceled. What already arrived is saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descarga cancelada. Lo que ya llegó quedó guardado."
+          }
+        }
+      }
+    },
+    "Download everything that isn't in your folder yet (⇧⌘D)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar todo lo que todavía no está en tu carpeta (⇧⌘D)"
+          }
+        }
+      }
+    },
+    "Download finished": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descarga terminada"
+          }
+        }
+      }
+    },
+    "Download incomplete": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descarga incompleta"
+          }
+        }
+      }
+    },
+    "Download it to watch it in full quality.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargalo para verlo en calidad completa."
+          }
+        }
+      }
+    },
+    "Download the selection (⌘D)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargar la selección (⌘D)"
+          }
+        }
+      }
+    },
+    "Downloading %@…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargando %@…"
+          }
+        }
+      }
+    },
+    "Downloads": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descargas"
+          }
+        }
+      }
+    },
+    "Eject": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Expulsar"
+          }
+        }
+      }
+    },
+    "Enter the camera’s Wi-Fi password": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ingresá la contraseña Wi-Fi de la cámara"
+          }
+        }
+      }
+    },
+    "Error": {
+      "shouldTranslate": false
+    },
+    "Failed": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Falló"
+          }
+        }
+      }
+    },
+    "File": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivo"
+          }
+        }
+      }
+    },
+    "Files": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivos"
+          }
+        }
+      }
+    },
+    "Filter": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtrar"
+          }
+        }
+      }
+    },
+    "Finish or cancel the downloads before using the camera.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminá o cancelá las descargas antes de usar la cámara."
+          }
+        }
+      }
+    },
+    "Folder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carpeta"
+          }
+        }
+      }
+    },
+    "Forget": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Olvidar"
+          }
+        }
+      }
+    },
+    "Forget All…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Olvidar todas…"
+          }
+        }
+      }
+    },
+    "Forget the saved cameras?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Olvidar las cámaras guardadas?"
+          }
+        }
+      }
+    },
+    "Free": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Libre"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "General"
+          }
+        }
+      }
+    },
+    "GitHub didn’t answer. Try again later.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub no respondió. Probá más tarde."
+          }
+        }
+      }
+    },
+    "Go back to your Wi-Fi when disconnecting": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volver a mi Wi-Fi al desconectar"
+          }
+        }
+      }
+    },
+    "Going back to your Wi-Fi…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volviendo a tu Wi-Fi…"
+          }
+        }
+      }
+    },
+    "Hyperlapse": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperlapse"
+          }
+        }
+      }
+    },
+    "In progress": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En curso"
+          }
+        }
+      }
+    },
+    "Include RAW (.DNG) and backup audio (.WAV) when present": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluir RAW (.DNG) y audio de respaldo (.WAV) cuando existan"
+          }
+        }
+      }
+    },
+    "Install": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instalar"
+          }
+        }
+      }
+    },
+    "Install %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instalar %@"
+          }
+        }
+      }
+    },
+    "It shows up here, and as a camera in Zoom, Meet, FaceTime or OBS.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aparece acá, y como cámara en Zoom, Meet, FaceTime u OBS."
+          }
+        }
+      }
+    },
+    "Joining %@…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectando a %@…"
+          }
+        }
+      }
+    },
+    "Last checked %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Última búsqueda %@"
+          }
+        }
+      }
+    },
+    "Left": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Falta"
+          }
+        }
+      }
+    },
+    "Library": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Biblioteca"
+          }
+        }
+      }
+    },
+    "Link": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enlace"
+          }
+        }
+      }
+    },
+    "Linked": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enlazada"
+          }
+        }
+      }
+    },
+    "Live": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En vivo"
+          }
+        }
+      }
+    },
+    "Live view": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista en vivo"
+          }
+        }
+      }
+    },
+    "Live view off": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista en vivo apagada"
+          }
+        }
+      }
+    },
+    "Loading older files": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cargando archivos más antiguos"
+          }
+        }
+      }
+    },
+    "Log": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro"
+          }
+        }
+      }
+    },
+    "Looking for %@…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscando %@…"
+          }
+        }
+      }
+    },
+    "Lost contact with the camera. Check that it’s on and nearby, then reconnect.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se perdió el contacto con la cámara. Fijate que esté encendida y cerca, y reconectá."
+          }
+        }
+      }
+    },
+    "Low Light": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poca luz"
+          }
+        }
+      }
+    },
+    "MIT License. Not affiliated with DJI.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Licencia MIT. Sin afiliación con DJI."
+          }
+        }
+      }
+    },
+    "Made by": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hecho por"
+          }
+        }
+      }
+    },
+    "Maintenance": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenimiento"
+          }
+        }
+      }
+    },
+    "Measured by reading the biggest clip on the card": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medido leyendo el clip más grande de la tarjeta"
+          }
+        }
+      }
+    },
+    "Measured by reading the biggest clip on the card. A cable that only carries USB 2 tops out near 40 MB/s.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medido leyendo el clip más grande de la tarjeta. Un cable que solo lleva USB 2 no pasa de unos 40 MB/s."
+          }
+        }
+      }
+    },
+    "Mode": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo"
+          }
+        }
+      }
+    },
+    "Motionlapse": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motionlapse"
+          }
+        }
+      }
+    },
+    "Move the new Osmotic from Finder into Applications to finish.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mové el Osmotic nuevo desde Finder a Aplicaciones para terminar."
+          }
+        }
+      }
+    },
+    "Nearby": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerca"
+          }
+        }
+      }
+    },
+    "New": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuevos"
+          }
+        }
+      }
+    },
+    "Next": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siguiente"
+          }
+        }
+      }
+    },
+    "Next (→)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siguiente (→)"
+          }
+        }
+      }
+    },
+    "Next time you’ll have to find them again. Your download history is kept.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La próxima vez vas a tener que buscarlas de nuevo. El historial de descargas se mantiene."
+          }
+        }
+      }
+    },
+    "No Bluetooth LE": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin Bluetooth LE"
+          }
+        }
+      }
+    },
+    "No Bluetooth access": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin acceso a Bluetooth"
+          }
+        }
+      }
+    },
+    "No USB camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin cámara USB"
+          }
+        }
+      }
+    },
+    "No camera access": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin acceso a la cámara"
+          }
+        }
+      }
+    },
+    "No date": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin fecha"
+          }
+        }
+      }
+    },
+    "No live view from this camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta cámara no envía imagen en vivo"
+          }
+        }
+      }
+    },
+    "No signal": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin señal"
+          }
+        }
+      }
+    },
+    "Not checked yet": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todavía no se buscó"
+          }
+        }
+      }
+    },
+    "Not connected": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin conexión"
+          }
+        }
+      }
+    },
+    "Nothing to show here": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada para mostrar acá"
+          }
+        }
+      }
+    },
+    "Off": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apagado"
+          }
+        }
+      }
+    },
+    "On": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Encendido"
+          }
+        }
+      }
+    },
+    "On Mac": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En Mac"
+          }
+        }
+      }
+    },
+    "On the camera, choose Webcam when it asks how to connect.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En la cámara, elegí Webcam cuando pregunte cómo conectarse."
+          }
+        }
+      }
+    },
+    "Open": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir"
+          }
+        }
+      }
+    },
+    "Open Downloads Folder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir carpeta de descargas"
+          }
+        }
+      }
+    },
+    "Open Folder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir carpeta"
+          }
+        }
+      }
+    },
+    "Open Osmotic's settings": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir la configuración de Osmotic"
+          }
+        }
+      }
+    },
+    "Open Release Page": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir la página de la versión"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes"
+          }
+        }
+      }
+    },
+    "Open the card %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir la tarjeta %@"
+          }
+        }
+      }
+    },
+    "Osmo › Mac  ·  Wireless  ·  No phone": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmo › Mac  ·  Inalámbrico  ·  Sin teléfono"
+          }
+        }
+      }
+    },
+    "Osmotic": {
+      "shouldTranslate": false
+    },
+    "Osmotic %@ is available.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic %@ está disponible."
+          }
+        }
+      }
+    },
+    "Osmotic Help": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayuda de Osmotic"
+          }
+        }
+      }
+    },
+    "Osmotic asks GitHub (api.github.com) for the latest release; nothing about you or your camera is sent. Updates are installed only when their signature matches the key built into this app.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic le pregunta a GitHub (api.github.com) por la última versión; no se manda nada sobre vos ni tu cámara. Las actualizaciones se instalan solo si su firma coincide con la clave incluida en la app."
+          }
+        }
+      }
+    },
+    "Osmotic doesn’t have Bluetooth permission. Turn it on in System Settings › Privacy & Security › Bluetooth.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic no tiene permiso de Bluetooth. Activalo en Configuración del Sistema › Privacidad y seguridad › Bluetooth."
+          }
+        }
+      }
+    },
+    "Osmotic is up to date.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic está actualizada."
+          }
+        }
+      }
+    },
+    "Osmotic needs Bluetooth permission: System Settings › Privacy & Security › Bluetooth.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic necesita permiso de Bluetooth: Configuración del Sistema › Privacidad y seguridad › Bluetooth."
+          }
+        }
+      }
+    },
+    "Osmotic on GitHub": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic en GitHub"
+          }
+        }
+      }
+    },
+    "Osmotic stands on the work of people who opened up DJI’s cameras when DJI didn’t. Thank you.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osmotic se apoya en el trabajo de quienes abrieron las cámaras de DJI cuando DJI no lo hizo. Gracias."
+          }
+        }
+      }
+    },
+    "Pair": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emparejar"
+          }
+        }
+      }
+    },
+    "Pairing": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emparejamiento"
+          }
+        }
+      }
+    },
+    "Pairing with the camera…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emparejando con la cámara…"
+          }
+        }
+      }
+    },
+    "Pano": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pano"
+          }
+        }
+      }
+    },
+    "Paused": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En pausa"
+          }
+        }
+      }
+    },
+    "Photo": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foto"
+          }
+        }
+      }
+    },
+    "Photos": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotos"
+          }
+        }
+      }
+    },
+    "Pick it as the camera in Zoom, Meet, FaceTime, OBS or any other app. Osmotic doesn’t need to stay open.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegila como cámara en Zoom, Meet, FaceTime, OBS o cualquier otra app. Osmotic no necesita quedar abierta."
+          }
+        }
+      }
+    },
+    "Pick the camera's card (the disk with a DCIM folder on it).": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegí la tarjeta de la cámara (el disco que tiene una carpeta DCIM)."
+          }
+        }
+      }
+    },
+    "Picture": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Imagen"
+          }
+        }
+      }
+    },
+    "Play (space)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reproducir (espacio)"
+          }
+        }
+      }
+    },
+    "Play a sound and notify when downloads finish": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonido y aviso al terminar de descargar"
+          }
+        }
+      }
+    },
+    "Plug the camera into this Mac with a USB-C cable.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enchufá la cámara a esta Mac con un cable USB-C."
+          }
+        }
+      }
+    },
+    "Plugged in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectada por cable"
+          }
+        }
+      }
+    },
+    "Pocket 3 · Pocket 4 · Nano · Action 4 · 5 Pro · 6": {
+      "shouldTranslate": false
+    },
+    "Preparing…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparando…"
+          }
+        }
+      }
+    },
+    "Preview": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista previa"
+          }
+        }
+      }
+    },
+    "Previous": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anterior"
+          }
+        }
+      }
+    },
+    "Previous (←)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anterior (←)"
+          }
+        }
+      }
+    },
+    "Progress": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progreso"
+          }
+        }
+      }
+    },
+    "Protocol research": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Investigación del protocolo"
+          }
+        }
+      }
+    },
+    "Queued": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En cola"
+          }
+        }
+      }
+    },
+    "Quit": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salir"
+          }
+        }
+      }
+    },
+    "Quit while files are copying?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Salir mientras se copian archivos?"
+          }
+        }
+      }
+    },
+    "Quit while files are downloading?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Salir mientras se descargan archivos?"
+          }
+        }
+      }
+    },
+    "REC": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "REC"
+          }
+        }
+      }
+    },
+    "Read": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lectura"
+          }
+        }
+      }
+    },
+    "Reading the camera’s card…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leyendo la tarjeta de la cámara…"
+          }
+        }
+      }
+    },
+    "Rec": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rec"
+          }
+        }
+      }
+    },
+    "Reconnect": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconectar"
+          }
+        }
+      }
+    },
+    "Reconnecting": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconectando"
+          }
+        }
+      }
+    },
+    "Record": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grabar"
+          }
+        }
+      }
+    },
+    "Record, take photos and see what the camera sees (over Wi-Fi)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grabá, sacá fotos y mirá lo que ve la cámara (por Wi-Fi)"
+          }
+        }
+      }
+    },
+    "Recording": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grabando"
+          }
+        }
+      }
+    },
+    "Release the camera and put the Mac back on your Wi-Fi": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liberar la cámara y volver a tu Wi-Fi"
+          }
+        }
+      }
+    },
+    "Remove from selection": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitar de la selección"
+          }
+        }
+      }
+    },
+    "Report an Issue…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reportar un problema…"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restablecer"
+          }
+        }
+      }
+    },
+    "Saved cameras": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámaras guardadas"
+          }
+        }
+      }
+    },
+    "Saving to": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destino"
+          }
+        }
+      }
+    },
+    "Searching…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscando…"
+          }
+        }
+      }
+    },
+    "Select All": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccionar todo"
+          }
+        }
+      }
+    },
+    "Select New": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleccionar nuevos"
+          }
+        }
+      }
+    },
+    "Selected": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegidos"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configuración"
+          }
+        }
+      }
+    },
+    "Show": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar en Finder"
+          }
+        }
+      }
+    },
+    "Shutter": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disparo"
+          }
+        }
+      }
+    },
+    "Signal": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Señal"
+          }
+        }
+      }
+    },
+    "Signal %lld dBm": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Señal %lld dBm"
+          }
+        }
+      }
+    },
+    "Slow-mo": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara lenta"
+          }
+        }
+      }
+    },
+    "Sort into folders by date (YYYY-MM-DD)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Organizar en subcarpetas por fecha (AAAA-MM-DD)"
+          }
+        }
+      }
+    },
+    "Speed": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vel"
+          }
+        }
+      }
+    },
+    "Starred": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favoritos"
+          }
+        }
+      }
+    },
+    "Start recording (↩)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar a grabar (↩)"
+          }
+        }
+      }
+    },
+    "Starting": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Iniciando"
+          }
+        }
+      }
+    },
+    "Starting live view…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Iniciando vista en vivo…"
+          }
+        }
+      }
+    },
+    "Status": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estado"
+          }
+        }
+      }
+    },
+    "Step %lld of %lld": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paso %lld de %lld"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detener"
+          }
+        }
+      }
+    },
+    "Stop recording (↩)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dejar de grabar (↩)"
+          }
+        }
+      }
+    },
+    "Stop recording before leaving Live.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dejá de grabar antes de salir de En vivo."
+          }
+        }
+      }
+    },
+    "Take Photo": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sacar foto"
+          }
+        }
+      }
+    },
+    "Take a photo (↩)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sacar una foto (↩)"
+          }
+        }
+      }
+    },
+    "Technical Log": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro técnico"
+          }
+        }
+      }
+    },
+    "Technical log": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro técnico"
+          }
+        }
+      }
+    },
+    "Testers": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pruebas"
+          }
+        }
+      }
+    },
+    "That disk has no DCIM folder, so there is nothing from a camera on it.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ese disco no tiene carpeta DCIM, así que no hay nada de una cámara ahí."
+          }
+        }
+      }
+    },
+    "The Mac’s Bluetooth is off.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Bluetooth de la Mac está apagado."
+          }
+        }
+      }
+    },
+    "The cable negotiated %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El cable negoció %@"
+          }
+        }
+      }
+    },
+    "The camera closed the Bluetooth connection.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara cerró la conexión Bluetooth."
+          }
+        }
+      }
+    },
+    "The camera didn’t accept the command. Try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no aceptó el comando. Probá de nuevo."
+          }
+        }
+      }
+    },
+    "The camera didn’t answer on the data link. If macOS asked about local network access, allow it and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no respondió en el enlace de datos. Si macOS preguntó por acceso a la red local, permitilo y reintentá."
+          }
+        }
+      }
+    },
+    "The camera didn’t change mode. Try again, or change it on the camera.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no cambió de modo. Probá de nuevo o cambialo en la cámara."
+          }
+        }
+      }
+    },
+    "The camera didn’t hand over its Wi-Fi. Try turning it off and on again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no entregó su Wi-Fi. Probá apagarla y encenderla."
+          }
+        }
+      }
+    },
+    "The camera didn’t send it over Bluetooth. It’s on the camera’s screen: Settings › Wireless connection (network %@).": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no la envió por Bluetooth. Está en su pantalla: Ajustes › Conexión inalámbrica (red %@)."
+          }
+        }
+      }
+    },
+    "The camera didn’t switch to capture mode.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara no pasó a modo captura."
+          }
+        }
+      }
+    },
+    "The camera's card, over the cable. No Wi-Fi, and your Internet stays on.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La tarjeta de la cámara, por cable. Sin Wi-Fi, y no perdés Internet."
+          }
+        }
+      }
+    },
+    "The camera’s card": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La tarjeta de la cámara"
+          }
+        }
+      }
+    },
+    "The card is empty": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La tarjeta está vacía"
+          }
+        }
+      }
+    },
+    "The card was unplugged.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se desconectó la tarjeta."
+          }
+        }
+      }
+    },
+    "The card was unplugged. What already arrived is saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se desconectó la tarjeta. Lo que ya llegó quedó guardado."
+          }
+        }
+      }
+    },
+    "The update didn’t finish downloading. Nothing was installed; try again later.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La actualización no terminó de descargarse. No se instaló nada; probá más tarde."
+          }
+        }
+      }
+    },
+    "The update doesn’t contain a valid copy of Osmotic. Nothing was installed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La actualización no contiene una copia válida de Osmotic. No se instaló nada."
+          }
+        }
+      }
+    },
+    "The update’s signature doesn’t match. Nothing was installed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La firma de la actualización no coincide. No se instaló nada."
+          }
+        }
+      }
+    },
+    "There are no videos or photos on the camera.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay videos ni fotos en la cámara."
+          }
+        }
+      }
+    },
+    "This Mac doesn’t have Bluetooth LE.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta Mac no tiene Bluetooth LE."
+          }
+        }
+      }
+    },
+    "This Mac has no Wi-Fi interface available.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta Mac no tiene una interfaz Wi-Fi disponible."
+          }
+        }
+      }
+    },
+    "This camera was never activated, so it won’t turn on its Wi-Fi. Activate it once with DJI Mimo.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta cámara nunca fue activada, así que no enciende su Wi-Fi. Activala una vez con DJI Mimo."
+          }
+        }
+      }
+    },
+    "Timelapse": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timelapse"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoy"
+          }
+        }
+      }
+    },
+    "Transfer": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transferir"
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reintentar"
+          }
+        }
+      }
+    },
+    "Try another view.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probá con otra vista."
+          }
+        }
+      }
+    },
+    "Turn on your camera and bring it close to the Mac": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Encendé tu cámara y acercala a la Mac"
+          }
+        }
+      }
+    },
+    "Unavailable": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No disponible"
+          }
+        }
+      }
+    },
+    "Unmount the card so the cable can come out": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desmontar la tarjeta para poder sacar el cable"
+          }
+        }
+      }
+    },
+    "Updates": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actualizaciones"
+          }
+        }
+      }
+    },
+    "Use the camera as a webcam over USB": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usá la cámara como webcam por USB"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión"
+          }
+        }
+      }
+    },
+    "Video": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Video"
+          }
+        }
+      }
+    },
+    "Videos": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Videos"
+          }
+        }
+      }
+    },
+    "View (space)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ver (espacio)"
+          }
+        }
+      }
+    },
+    "Waiting": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando"
+          }
+        }
+      }
+    },
+    "Waiting for the %@ network…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando la red %@…"
+          }
+        }
+      }
+    },
+    "Waiting for the camera to turn on its Wi-Fi…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando que la cámara encienda su Wi-Fi…"
+          }
+        }
+      }
+    },
+    "Waiting for the camera…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando a la cámara…"
+          }
+        }
+      }
+    },
+    "Webcam": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Webcam"
+          }
+        }
+      }
+    },
+    "Webcam picture": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Imagen de la webcam"
+          }
+        }
+      }
+    },
+    "What already arrived stays saved; the rest resumes next time.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lo ya descargado queda guardado; lo demás se reanuda la próxima vez."
+          }
+        }
+      }
+    },
+    "What’s new in %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novedades de %@"
+          }
+        }
+      }
+    },
+    "While connected, your Mac uses the camera’s Wi-Fi and has no Internet over Wi-Fi; it goes back to your network when you disconnect. To stay online, plug the Mac into Ethernet or share an iPhone’s connection over USB.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mientras dure la conexión, tu Mac usa el Wi-Fi de la cámara y queda sin Internet por Wi-Fi; al desconectar vuelve a tu red. Para seguir con Internet, conectá la Mac por Ethernet o el iPhone por cable con Compartir Internet."
+          }
+        }
+      }
+    },
+    "Wi-Fi": {
+      "shouldTranslate": false
+    },
+    "Yesterday": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayer"
+          }
+        }
+      }
+    },
+    "from the camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "desde la cámara"
+          }
+        }
+      }
+    },
+    "lightweight preview": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vista previa liviana"
+          }
+        }
+      }
+    },
+    "macOS won’t let Osmotic read the card yet. Allow it in System Settings › Privacy & Security › Files and Folders, or pick the card yourself.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS todavía no deja que Osmotic lea la tarjeta. Permitilo en Configuración del Sistema › Privacidad y seguridad › Archivos y carpetas, o elegí la tarjeta vos."
+          }
+        }
+      }
+    },
+    "on your Mac": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "en tu Mac"
+          }
+        }
+      }
+    },
+    "original from the camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "original desde la cámara"
+          }
+        }
+      }
+    },
+    "original on your Mac": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "original en tu Mac"
+          }
+        }
+      }
+    },
+    "osmotic": {
+      "shouldTranslate": false
+    },
+    "password (8 or more characters)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contraseña (8 caracteres o más)"
+          }
+        }
+      }
+    },
+    "signal": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "señal"
+          }
+        }
+      }
+    },
+    "· measuring…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· midiendo…"
+          }
+        }
+      }
+    },
+    "· out of range": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· fuera de alcance"
+          }
+        }
+      }
+    },
+    "· saved": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· guardada"
+          }
+        }
+      }
+    },
+    "%@ is plugged in, but its card isn’t showing up. Unplug the cable and plug it back in, or pick USB storage on the camera.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ está enchufada, pero su tarjeta no aparece. Desenchufá el cable y volvé a enchufarlo, o elegí almacenamiento USB en la cámara."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,29 @@
+Pocket Transfer 0.3.0预览版
+
+下载与完整说明书：https://github.com/hotpotly/PocketTransfer
+
+要求：Apple芯片Mac，macOS 15或以上。此包仅本地签名，未经过Apple公证。
+
+无线导入
+1. 开启相机，在App中搜索并连接；首次配对须在相机上确认。
+2. 按需允许蓝牙、本地网络、定位和通知权限。
+3. 选择素材并导入，在弹窗中选择保存文件夹。
+4. 结束后点击“断开连接”。无线传输期间原Wi-Fi互联网连接会中断。
+
+USB-C与读卡器
+使用数据线，选择相机文件传输模式。在USB-C区域打开存储卷或手动选择DCIM目录；导入后推出再拔线。
+
+相机提醒
+先配对一次，在设置中启用通知。App运行时发现已配对相机，点击通知才连接并导入到上次选择目录。关窗口不退出；完全退出后不扫描。没有自动开机启动项。
+
+数据
+默认素材：~/Downloads/Pocket Transfer/
+状态与日志：~/Library/Application Support/Pocket Transfer/
+保留相机原文件；不自动提取视频音轨，不支持Sony相机。
+
+网络
+联网检测遵循系统VPN和代理，不修改Shadowrocket或DNS。实际恢复仍受系统及网络环境影响。
+
+来源
+基于Osmotic，原作made by smithplus，MIT许可。沿用Osmosis和Kaze for DJI等开源实现。非大疆官方软件。
+完整说明书：https://github.com/hotpotly/PocketTransfer/blob/main/docs/USER_GUIDE.zh-CN.md

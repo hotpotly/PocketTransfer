@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>es</string>
+		<string>zh-Hans</string>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Osmotic</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.ly.pockettransfer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Pocket Transfer</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pocket Transfer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.3.0</string>
+	<key>CFBundleVersion</key>
+	<string>6</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.photography</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 smithplus. MIT License. Not affiliated with DJI.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Osmotic uses Bluetooth to find your DJI camera and ask it to turn on its Wi-Fi.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Osmotic talks to your camera on its own Wi-Fi network (192.168.2.1) to list and download your files.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>Osmotic reads the camera's card when you plug the camera in over USB, so it can copy your clips to the Mac.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Osmotic saves your camera’s videos and photos to the DJI folder in Downloads.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Osmotic shows your DJI camera’s picture when it’s plugged in by USB as a webcam.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_osmotic._udp</string>
+	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>macOS only shows your Wi-Fi network’s name to apps with Location permission. Osmotic uses it to get you back on your network when it’s done. It never records your location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>macOS only shows your Wi-Fi network’s name to apps with Location permission. Osmotic uses it to get you back on your network when it’s done. It never records your location.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>PocketTransferPersonalBuild</key>
+	<true/>
+</dict>
+</plist>
